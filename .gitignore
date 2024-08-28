@@ -13,8 +13,6 @@ zig-cache/
 # Dependency directories
 zig-deps/
 
-# Compiled files
-*.zig*
 
 # Log files
 *.log
